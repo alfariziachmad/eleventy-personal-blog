@@ -8,3 +8,5 @@ permalink: /contact/index.html
 [Instgram](https://www.instagram.com/alfarizi_achmad/)
 
 [T﻿witter](https://twitter.com/alfarizia_)
+
+U﻿ntuk saat ini, Form Contact pada halaman ini masih dalam tahap perbaikan. Mohon menunggu Update selanjutnya :)
