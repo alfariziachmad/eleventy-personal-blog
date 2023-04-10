@@ -3,8 +3,12 @@ layout: layouts/contact.njk
 title: Contact
 permalink: /contact/index.html
 ---
+A﻿nda dapat menghubungi Saya melalui salah satu Media Sosial Berikut ini :
+
 [L﻿inkedIn](https://www.linkedin.com/in/achmad-alfarizi/)
 
 [Instgram](https://www.instagram.com/alfarizi_achmad/)
 
 [T﻿witter](https://twitter.com/alfarizia_)
+
+U﻿ntuk saat ini, Form Contact pada halaman ini masih dalam tahap perbaikan. Mohon menunggu Update selanjutnya :)
