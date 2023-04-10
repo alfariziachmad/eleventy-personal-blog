@@ -1,5 +1,5 @@
 ---
-title: Terima kasih
+title: Thank You
 permalink: /thank-you/index.html
 ---
-Terima kasih telah menghubungi Saya, Silahkan Anda dapat bersedia menunggu :)
+Thank you for contacting me. We'll be in touch as soon as possible. 😃
