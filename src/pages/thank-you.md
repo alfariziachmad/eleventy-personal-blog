@@ -1,6 +1,5 @@
 ---
-title: 'Thank you'
-permalink: '/thank-you/index.html'
+title: Terima kasih
+permalink: /thank-you/index.html
 ---
-
-This is your thank you page where if someone fills in your contact form, they will be directed to. Make sure you add a nice message 🙂
+Terima kasih telah menghubungi Saya, Silahkan Anda dapat bersedia menunggu :)
