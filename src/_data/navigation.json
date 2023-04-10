@@ -1,17 +1,12 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
-      "external": false
-    },
-    {
       "text": "Download CV",
       "url": "https://drive.google.com/uc?export=download&id=1vTuuY4Z5W5XSG4klxqC3apSpz_C6vYcb",
       "external": true
     },
     {
-      "text": "Contact",
+      "text": "Contact Me",
       "url": "/contact",
       "external": false
     }
