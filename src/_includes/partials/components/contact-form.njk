@@ -3,15 +3,15 @@
 <form name="contact" method="POST" data-netlify="true" action="/thank-you" netlify-honeypot="bot-field">
   <ol class="[ field-list ]">
     <li class="[ field-list__field-group ]">
-      {{ label("Siapa nama Anda?", "name") }}
+      {{ label("What is your name?", "name") }}
       {{ field( "text", "name", { required: true, placeholder: "Nama Anda", autocomplete: "name", autocorrect: "off", autocapitalize: "off" } ) }}
     </li>
     <li class="[ field-list__field-group ]">
-      {{ label("Apa alamat email Anda?", "email") }}
+      {{ label("What’s your email address?", "email") }}
       {{ field( "email", "email", { required: true, placeholder: "nama@domain.com", autocomplete: "email" } ) }}
     </li>
     <li class="[ field-list__field-group ]">
-      {{ label("Tuliskan pesan Anda untuk Saya", "message") }}
+      {{ label("What’s on your mind?", "message") }}
       {{ textarea( "message", { required: true, autocapitalize: "sentences", spellcheck: "true" } ) }}
     </li>
     <li hidden>
