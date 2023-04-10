@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Halo👋, Nama saya Achmad Alfarizi
+title: Hello👋, My name is Achmad Alfarizi
 metaTitle: Achmad Alfarizi
-metaDesc: Situs web pribadi sederhana yang dibuat menggunakan eleventy
-postsHeading: Artikel Terbaru
-archiveButtonText: Lihat semua artikel
+metaDesc: A simple personal website built with eleventy
+postsHeading: Latest Articles
+archiveButtonText: See all articles
 socialImage: ""
 ---
-Selamat datang di Website Personal saya. Disini saya akan menulis Artikel apapun yang saya suka mulai dari Teknologi, Hardware, Software, UI / UX Design, Game, Musik hingga Movies & Series. Semoga kalian semua terhibur membaca Artikel yang saya buat :)
+Welcome to my personal website. Here I will write articles about anything I like from Technology, Hardware, Software, UI / UX Design, Games, Music to Movies & Series. I hope you all are entertained reading the articles I make :)
