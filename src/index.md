@@ -1,15 +1,10 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
-postsHeading: Latest posts
-archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+title: Halo👋, Nama saya Achmad Alfarizi
+metaTitle: Achmad Alfarizi
+metaDesc: Situs web pribadi sederhana yang dibuat menggunakan eleventy
+postsHeading: Artikel Terbaru
+archiveButtonText: Lihat semua artikel
+socialImage: ""
 ---
-
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Forestry
-CMS](https://forestry.io/) pre-configured, so that you can one-click install a
-progressive, accessible blog in minutes. It also gives you a well organised
-starting point to extend yourself.
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/dirtyf/hylia)
+Selamat datang di Website Personal saya. Disini saya akan menulis Artikel apapun yang saya suka mulai dari Teknologi, Hardware, Software, UI / UX Design, Game, Musik hingga Movies & Series. Semoga kalian semua terhibur membaca Artikel yang saya buat :)
