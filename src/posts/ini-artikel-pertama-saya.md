@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Ini artikel pertama saya
-date: 2023-03-19T17:00:00.000Z
+date: 2023-03-20T03:46:25.696Z
 tags:
   - tagstesting
   - firstpost
