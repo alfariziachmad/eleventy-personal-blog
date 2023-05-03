@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Ini artikel pertama saya
+title: Ini artikel pertama saya (Edited)
 date: 2023-03-20T03:46:25.696Z
 tags:
   - tagstesting
