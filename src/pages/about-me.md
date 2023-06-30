@@ -13,6 +13,6 @@ You can contact me through one of the following platforms :
 
 [L﻿inkedin](https://www.linkedin.com/in/achmad-alfarizi/)
 
-[I﻿nstagram](https://www.instagram.com/alfarizi_achmad/)
+[I﻿nstagram](https://www.instagram.com/alfrzach)
 
 [T﻿witter](https://twitter.com/alfrzach)
