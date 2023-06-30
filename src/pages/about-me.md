@@ -15,4 +15,4 @@ You can contact me through one of the following platforms :
 
 [I﻿nstagram](https://www.instagram.com/alfarizi_achmad/)
 
-[T﻿witter](https://twitter.com/alfariziach)
+[T﻿witter](https://twitter.com/alfrzach)
