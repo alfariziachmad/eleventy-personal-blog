@@ -7,4 +7,8 @@ postsHeading: Latest Articles
 archiveButtonText: See all articles
 socialImage: ""
 ---
-Welcome to my personal website. Here I will write articles about anything I like from Technology, Hardware, Software, UI / UX Design, Games, Music to Movies & Series. I hope you all are entertained reading the articles I make :)
+<!--StartFragment-->
+
+Welcome to my personal website. Here, I will write articles about anything I like, ranging from technology, hardware, software, UI/UX design, games, music, to movies and series. I hope you all enjoy reading the articles I create :)
+
+<!--EndFragment-->
